@@ -13,7 +13,7 @@ public class WebSiteTests {
 
 	@AfterTest
 	public void tearDown() {
-		System.out.println("Closing/exiting resources");
+		System.out.println("Closing/exitings resources");
 	}
 
 	@Test
